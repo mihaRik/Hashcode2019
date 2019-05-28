@@ -1,0 +1,7 @@
+C:\Users\mihaRik\Desktop\hashcode submit\Submit\Submit\obj\Debug\Submit.csprojAssemblyReference.cache
+C:\Users\mihaRik\Desktop\hashcode submit\Submit\Submit\obj\Debug\Submit.csproj.CoreCompileInputs.cache
+C:\Users\mihaRik\Desktop\hashcode submit\Submit\Submit\bin\Debug\Submit.exe.config
+C:\Users\mihaRik\Desktop\hashcode submit\Submit\Submit\bin\Debug\Submit.exe
+C:\Users\mihaRik\Desktop\hashcode submit\Submit\Submit\bin\Debug\Submit.pdb
+C:\Users\mihaRik\Desktop\hashcode submit\Submit\Submit\obj\Debug\Submit.exe
+C:\Users\mihaRik\Desktop\hashcode submit\Submit\Submit\obj\Debug\Submit.pdb

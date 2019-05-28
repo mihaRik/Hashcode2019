@@ -1,0 +1,7 @@
+C:\Users\mihaRik\Desktop\slideshow\SlideShowHashCode\SlideShowHashCode\bin\Debug\SlideShowHashCode.exe.config
+C:\Users\mihaRik\Desktop\slideshow\SlideShowHashCode\SlideShowHashCode\bin\Debug\SlideShowHashCode.exe
+C:\Users\mihaRik\Desktop\slideshow\SlideShowHashCode\SlideShowHashCode\bin\Debug\SlideShowHashCode.pdb
+C:\Users\mihaRik\Desktop\slideshow\SlideShowHashCode\SlideShowHashCode\obj\Debug\SlideShowHashCode.csprojAssemblyReference.cache
+C:\Users\mihaRik\Desktop\slideshow\SlideShowHashCode\SlideShowHashCode\obj\Debug\SlideShowHashCode.csproj.CoreCompileInputs.cache
+C:\Users\mihaRik\Desktop\slideshow\SlideShowHashCode\SlideShowHashCode\obj\Debug\SlideShowHashCode.exe
+C:\Users\mihaRik\Desktop\slideshow\SlideShowHashCode\SlideShowHashCode\obj\Debug\SlideShowHashCode.pdb

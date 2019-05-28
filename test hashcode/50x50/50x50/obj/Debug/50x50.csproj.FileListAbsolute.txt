@@ -1,0 +1,7 @@
+C:\Users\mihaRik\Desktop\test hashcode\50x50\50x50\obj\Debug\50x50.csprojAssemblyReference.cache
+C:\Users\mihaRik\Desktop\test hashcode\50x50\50x50\obj\Debug\50x50.csproj.CoreCompileInputs.cache
+C:\Users\mihaRik\Desktop\test hashcode\50x50\50x50\bin\Debug\50x50.exe.config
+C:\Users\mihaRik\Desktop\test hashcode\50x50\50x50\bin\Debug\50x50.exe
+C:\Users\mihaRik\Desktop\test hashcode\50x50\50x50\bin\Debug\50x50.pdb
+C:\Users\mihaRik\Desktop\test hashcode\50x50\50x50\obj\Debug\50x50.exe
+C:\Users\mihaRik\Desktop\test hashcode\50x50\50x50\obj\Debug\50x50.pdb

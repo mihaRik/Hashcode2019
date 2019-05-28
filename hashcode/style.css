@@ -1,0 +1,31 @@
+body{
+    overflow-x: scroll;
+}
+p{
+    font-size: 14px;
+    margin: 0;
+    word-wrap: none;
+    word-break: keep-all;
+    width: max-content;
+}
+span{
+    width: 15px;
+    height: 15px;
+    display: inline-block;
+    /* padding: 2px 5px; */
+}
+
+.t{
+    background: #D9534F;
+}
+
+.m{
+    background: #5CB85C;
+}
+
+.x{
+    background: #292B2C;
+    color: #fff;
+}
+.slice{
+}

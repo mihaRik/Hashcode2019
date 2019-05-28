@@ -1,0 +1,7 @@
+C:\Users\mihaRik\Desktop\hashcode\Hashcode\MenGorxmuram\bin\Debug\MenGorxmuram.exe.config
+C:\Users\mihaRik\Desktop\hashcode\Hashcode\MenGorxmuram\bin\Debug\MenGorxmuram.exe
+C:\Users\mihaRik\Desktop\hashcode\Hashcode\MenGorxmuram\bin\Debug\MenGorxmuram.pdb
+C:\Users\mihaRik\Desktop\hashcode\Hashcode\MenGorxmuram\obj\Debug\MenGorxmuram.csproj.CoreCompileInputs.cache
+C:\Users\mihaRik\Desktop\hashcode\Hashcode\MenGorxmuram\obj\Debug\MenGorxmuram.exe
+C:\Users\mihaRik\Desktop\hashcode\Hashcode\MenGorxmuram\obj\Debug\MenGorxmuram.pdb
+C:\Users\mihaRik\Desktop\hashcode\Hashcode\MenGorxmuram\obj\Debug\MenGorxmuram.csprojAssemblyReference.cache
